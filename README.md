@@ -1,4 +1,4 @@
-__VPS-MANAGER__
+__SUM-VPS-MANAGER__
 
 __Recomendado__
 - Ubuntu 18
